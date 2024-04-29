@@ -66,4 +66,4 @@ Pages or Heroku etc</li>
 # Links
 
 - [GitHub Repository](https://github.com/devanshagrawal-169/Taiyo-covid)
-- [Deployed Project](https://covid-connect-plus.vercel.app/)
+- [Deployed Project](https://taiyo-covid.vercel.app/)
