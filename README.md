@@ -61,35 +61,9 @@ Pages or Heroku etc</li>
     </li> 
 </ul>
 
-<h1><strong> Development Installation </strong></h1>
 
-Follow these instructions to set up your development environment, which you need to do before you start contributing code to this project.
-
-<h1><strong> Manual Installation </strong></h1>
-
-_Note_: The installation steps assume you are using a Unix-like shell. If you are using Windows, you will need to use `copy` instead of `cp`.
-
-1. Install Node.js. The recommended way is to Node through [nvm](https://github.com/nvm-sh/nvm). You can also install [node.js](https://nodejs.org/download/release/v18.2.0/) version 18.2.0 directly from the Node.js website.
-2. [Clone](https://github.com/aayanlobo/CovidConnectPlus.git) your new fork of the repository from GitHub onto your local computer.
-
-   ```
-   $ git clone https://github.com/aayanlobo/CovidConnectPlus.git
-   ```
-3. Navigate to root directory and implement the following commands :
-
-   ```
-   $ cd CovidConnectPlus
-   $ npm install
-   $ npm run start
-   ```
 
 # Links
 
-- [GitHub Repository](https://github.com/aayanlobo/CovidConnectPlus.git)
+- [GitHub Repository](https://github.com/devanshagrawal-169/Taiyo-covid)
 - [Deployed Project](https://covid-connect-plus.vercel.app/)
-
-
-# Showcase
-|     ![Create Contact Page](assets/createcontactpage.png)     |       ![Contact Page](assets/contactpage.png)        |
-| :--------------------------------------------------: | :-----------------------------------------------------: |
-| ![Line Graph](assets/linegraph.png) | ![Map View](assets/mapview.png) |
